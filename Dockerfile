@@ -1,0 +1,4 @@
+FROM fribbledom/beehive:latest
+
+
+
